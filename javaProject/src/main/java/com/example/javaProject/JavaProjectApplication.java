@@ -13,6 +13,7 @@ public class JavaProjectApplication {
 		System.out.println("Hello");
 		System.out.println("Hi");
 		System.out.println("King");
+		System.out.println("Eject");
 	}
 
 }
