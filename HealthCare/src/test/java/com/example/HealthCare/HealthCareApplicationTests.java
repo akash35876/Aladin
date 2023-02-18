@@ -3,7 +3,6 @@ package com.example.HealthCare;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.Mockito.when;
 
-import java.util.Optional;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -27,6 +26,13 @@ class HealthCareApplicationTests {
 	private BlogService serv;
 	@Mock
 	private BlogRepositry repo;
+	
+	@Test
+	public void getStatus() {
+		
+		
+		
+	}
 
 	@Test
 	public void getBlogtest() {
